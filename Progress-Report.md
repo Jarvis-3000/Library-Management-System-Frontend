@@ -1,6 +1,6 @@
 # Progress Report
 
-## 20 July, 2021
+## 26 July, 2021
 
-    I did this ;
-    '
+    Today I successfully created the left side bar/panel.
+    made it scrollable also. 
